@@ -1,0 +1,19 @@
+Listado de rutas de carpetas para el volumen TOSHIBA EXT
+El n�mero de serie del volumen es 76A4-3E74
+D:.
+|   .dockerignore
+|   .env.development
+|   .gitignore
+|   Dockerfile
+|   nodemon.json
+|   package-lock.json
+|   package.json
+|   tree.txt
+|   tsconfig.json
+|   
+\---src
+        ChatBot.ts
+        helpers.ts
+        index.ts
+        models.ts
+        
